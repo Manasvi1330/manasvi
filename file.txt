@@ -1,1 +1,6 @@
 hello ggg
+<<<<<<< HEAD
+=======
+1 more line added
+done
+>>>>>>> test
